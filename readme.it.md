@@ -22,17 +22,9 @@ riconosciuto è evidenziato con il proprio nome.
 
 ## Esempio di risultato
 
-Aggiungere un'immagine di esempio in:
-
-```text
-docs/images/example_output.png
-```
-
-Il file verrà mostrato automaticamente nel README:
-
 <p align="center">
   <img
-    src="docs/images/example_output.png"
+    src="images/output.png"
     alt="Esempio di scena elaborata"
     width="900"
   >
